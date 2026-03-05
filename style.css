@@ -87,7 +87,12 @@ ul {
 }
 
 li {
-  margin-bottom: 3px;
+  margin-bottom: 6px;
+}
+.project-tech {
+  font-size: 0.9rem;
+  color: #444;
+  margin-bottom: 8px;
 }
 
 /* ================= FLEX BLOCKS ================= */
@@ -170,6 +175,4 @@ li {
     color: black;
     text-decoration: none;
   }
-
-  
 }
